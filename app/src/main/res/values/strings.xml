@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Journey Journals</string>
+    // registration and login title
+    <!--    <string name="app_name">Journey Journal</string>-->
+    <string name="login_title"> Welcome to login page</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="Confirm_password">Confirm Password</string>
+    <string name="login_btn">login</string>
+    <string name="media_title"> or login with </string>
+    <string name="register_title">Registration Page</string>
+    <string name="reg_username">Username</string>
+    <string name="reg_retype_password">Re-type Password</string>
+    <string name="user_type">User Type :</string>
+    <string name="btn_register"> Register </string>
+    <string name="reg_link">Create new account</string>
+    <string name="rd_student">Student</string>
+    <string name="rd_other">Others</string>
+    <string name="existing_user">I\m existing user</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello this is srijana rai</string>
+
+    // nav dashboard title
+    <string name="nav_home_title">Home</string>
+    <string name="nav_profile">Profile</string>
+    <string name="nav_notification">Notification</string>
+    <string name="nav_setting">Setting</string>
+    <string name="nav_journals">My Journals</string>
+
+    // my journals css
+    <string name="item_title">Title</string>
+    <string name="item_desc">With the developments in information technology and
+improvements in communication channels, fraud is spreading all
+over the world, resulting in huge financial losses</string>
+    <string name="add_task">Add task</string>
+    <string name="new_journal_title">Title</string>
+    <string name="journey_desc">Share your experiences.....</string>
+    <string name="new_journey">Add</string>
+    <string name="add_list">Add list</string>
+
+</resources>
